@@ -1,0 +1,29 @@
+{
+  "name": "easy_openid_client",
+  "version": "1.0.0",
+  "description": "minimalistic client for openid service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianbrode/easy_openid_client.git"
+  },
+  "keywords": [
+    "openid",
+    "authorization",
+    "client",
+    "session"
+  ],
+  "author": "Yan Brodetsky",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/ianbrode/easy_openid_client/issues"
+  },
+  "homepage": "https://github.com/ianbrode/easy_openid_client#readme",
+  "dependencies": {
+    "qs": "^6.5.0",
+    "uuid": "^3.1.0"
+  }
+}
